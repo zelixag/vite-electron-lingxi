@@ -45,6 +45,6 @@
   },
   "dependencies": {
     "electron-updater": "4.6.5",
-    "vue": "3.2.31"
+    "vue": "3.2.45"
   }
 }
